@@ -1,6 +1,6 @@
 # sqvplasma console!
 
-by the way currently there is no english language, so im sorry guys. i will release a guide to use it later.            
+by the way currently there is no english language, so im sorry guys. i will release a guide to use sqvplasma later.            
  Это кастомная консоль для Windows 10-11 сделанная на Python 3.13. 
  Она сделана просто по приколу :>
 Каждый человек может выпускать свои пакеты для pacman или форкать наш проект   (см. https://github.com/sqvs/sqvplasma-packages для создания своих пакетов.)           
