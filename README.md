@@ -11,6 +11,32 @@ by the way currently there is no english language, so im sorry guys. i will rele
       Или например:            
         app install steam          
         
+
+       Гайд на использование:
+      Скачайте питон 3.12 добавив его в System PATH
+    (Питон надо устанавливать только при первом запуске)
+      Открываете командную строку
+     Пишите в нее(можно скопировать все команды):
+
+        cd
+        clear
+        git clone https://github.com/sqvs/sqvplasma
+        clear
+        cd
+        clear
+        pip install requests
+        clear
+        pip install pyqt5
+        clear
+        cd sqvplasma
+        clear
+        python3 sqvplasma_v0.2.6
+        cd
+        
+       команды выше делаете при каждом запуске
+
+
+
        17.06.2025 Первый пре-релиз состоялся!
         22.06.2025 второй пре-релиз
          28.06.2025 третий пре-релиз
