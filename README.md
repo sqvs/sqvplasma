@@ -1,42 +1,20 @@
 # sqvplasma console!
 
-by the way currently there is no english language, so im sorry guys. i will release a guide to use sqvplasma later.            
+by the way currently there is no english language, so im sorry guys. i will release a guide to use sqvplasma later.       
+
+Гайды:
+Гайд на установку: https://github.com/sqvs/sqvplasma/blob/main/InstallGuide.md
+Гайд на использование(не закончен): https://github.com/sqvs/sqvplasma/blob/main/UseGuide.md
  Это кастомная консоль для Windows 10-11 сделанная на Python 3.13. 
           Она сделана просто по приколу                  
 Каждый человек может выпускать свои пакеты для pacman или форкать наш проект   (см. https://github.com/sqvs/sqvplasma-packages для создания своих пакетов.)           
         С помощью нашей консоли, например, вы можете:                    
    Использовать команду pip (пока что не нативно, а с использованием командной строки Windows.)                      
-      Устанавливать приложения:             
-      app install firefox             
-      Или например:            
-        app install steam          
+      Устанавливать приложения (ниже предоставил пример):           
+      app install firefox         
         
 
-       Гайд на использование:
-      Скачайте питон 3.12 добавив его в System PATH
-    (Питон надо устанавливать только при первом запуске)
-      Открываете командную строку
-     Пишите в нее(можно скопировать все команды):
-
-        cd
-        clear
-        git clone https://github.com/sqvs/sqvplasma
-        clear
-        cd
-        clear
-        pip install requests
-        clear
-        pip install pyqt5
-        clear
-        cd sqvplasma
-        clear
-        python3 sqvplasma_v0.2.6
-        cd
-        
-       команды выше делаете при каждом запуске
-
-
-
+       
        17.06.2025 Первый пре-релиз состоялся!
         22.06.2025 второй пре-релиз
          28.06.2025 третий пре-релиз
